@@ -1,0 +1,28 @@
+.block-1{
+	margin: 0px auto;
+	padding: 50px 0px 50px 10px;
+	background-color: #AED6F1;
+}
+
+.block-2{
+	margin: 0px auto;
+	padding: 50px 0px 50px 10px;
+	background-color: #76D7C4;
+}
+
+.block-3{
+	margin: 0px auto;
+	padding: 50px 0px 50px 10px;
+	background-color: #F9E79F;
+}
+
+.footer{
+	margin: 0px auto;
+	padding: 20px 0px 20px 0px;
+	background-color: #D7BDE2;
+}
+
+.jumbotron{
+	margin: 0px;
+}
+
